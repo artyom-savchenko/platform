@@ -15,7 +15,7 @@
 
 import { createPlatform } from '@anticrm/platform'
 
-import ui, { routeMeta } from '@anticrm/platform-ui'
+import ui from '@anticrm/platform-ui'
 import core from '@anticrm/platform-core'
 import i18n from '@anticrm/platform-i18n'
 import login from '@anticrm/login'
